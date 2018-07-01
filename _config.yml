@@ -1,5 +1,5 @@
 # Site settings
-name: Shridhish R. Sundaran
+name: Shridhish Sundaran
 email: shridhish7@gmail.com
 #canonical_url: https://edwinexemplar.com
 keywords: "shridhish, shridhish, Software Engineer, JAVA, SQL, C++, back- end software engineer, Shridhish Ramath Sundaran, Shridhish website, Shridhish RS, Shridhish"
@@ -13,8 +13,6 @@ social:
     url: https://www.linkedin.com/in/shridhish/
   - title: github
     url: https://github.com/shridhish
-  - title: facebook
-    url: https://facebook.com/shridhish7
     
 # Google webmaster tools
 google_verify:
