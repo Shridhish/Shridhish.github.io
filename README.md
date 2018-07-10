@@ -1,1 +1,1 @@
-This is a portfolio website. Enter "www.shridhish.com" in the url box to check it out.
+This is a portfolio website. Click "www.shridhish.com" to check it out.
